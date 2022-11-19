@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  PracticeFinalProject
+
+  Created by Ava Sepe on 11/17/22.
+  
+*/
+"controller.event" = "Event Name:"
+
+"controller.duration" = "Duration (in minutes):"
+
+"controller.date" = "Date:"
+
+"controller.submitButton" = "Submit"
+
+"controller.nextButton" = "Next"
+
+
